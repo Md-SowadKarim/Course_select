@@ -1,2 +1,4 @@
-# Course_select
-It is a course select option which happen in term of choosing item in ecommerce site
+## Three Feature of the project 
+==>
+## Discuss How You Managed the state in your assignment project
+==> 
